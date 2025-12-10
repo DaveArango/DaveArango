@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jhonatan David Vivas Arango
 
-<!--
-**DaveArango/DaveArango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**System Engineering and Computing student** at Universidad del Quindío.  
+**Colombian Sign Language Interpreter** with experience in academic environments.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies and building practical solutions, especially in areas like:
+- Software development
+- Multiplatform applications
+- Backend & frontend fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring: **Flutter**, **Angular**, and modern backend architectures.
+
+---
