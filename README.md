@@ -6,7 +6,4 @@
 I enjoy learning new technologies and building practical solutions, especially in areas like:
 - Software development
 - Multiplatform applications
-
-Currently exploring: **Flutter**, **Angular**, and modern backend architectures.
-
 ---
